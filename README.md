@@ -5,3 +5,5 @@ For run in new VDS:
 4) ```docker compose up -d```
 
    Open in you browser ```http://localhost:8080```
+
+*** ! work in ```https://portainer.io```
