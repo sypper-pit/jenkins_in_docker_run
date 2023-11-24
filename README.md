@@ -1,3 +1,5 @@
+Fast jenkins installer
+
 For run in new VDS:
 1) ```sudo apt update && sudo apt install curl git -y && curl -fsSL https://get.docker.com -o get-docker.sh && sh ./get-docker.sh```
 2) ```git clone https://github.com/sypper-pit/jenkins_in_docker_run.git```
