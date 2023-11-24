@@ -6,4 +6,5 @@ For run in new VDS:
 
    Open in you browser ```http://localhost:8080```
 
-*** ! work in ```https://portainer.io```
+ _____
+ ! work in ```https://portainer.io``` like "stack"
