@@ -1,4 +1,4 @@
-Fast jenkins installer
+Fast jenkins installer work in docker and can managet host-pc docker.
 
 For run in new VDS:
 1) ```sudo apt update && sudo apt install curl git -y && curl -fsSL https://get.docker.com -o get-docker.sh && sh ./get-docker.sh```
